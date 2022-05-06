@@ -10,7 +10,7 @@ console.log(sumEl);
 let cradsEl = document.getElementById("cards-el");
 
 let player= {
-   name:"Payler:",
+   name:"Player-1",
    chips: 145
 }
 
@@ -66,4 +66,5 @@ function newCard() {
   }
   
 }
+
 
